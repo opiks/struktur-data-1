@@ -1,3 +1,7 @@
+// Nama : Muhammad Taufik Zamaludin
+// NIM : 1120031026
+// Universitas Faletehan Teknik Informatika
+
 #include <iostream>
 #include <sstream>
 using namespace std;
