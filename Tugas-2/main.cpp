@@ -153,6 +153,8 @@ void tampilData() {
             cout << nodeBantu->data << endl;
             nodeBantu = nodeBantu->next;
         } while (nodeBantu != tail->next);
+        
+        cout << endl;
     } else {
         cout << "List masih kosong" << endl;
     }
